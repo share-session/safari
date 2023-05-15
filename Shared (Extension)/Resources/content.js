@@ -5,7 +5,7 @@ function load() {
         return
     }
     
-    var url = "https://cdn.jsdelivr.net/gh/share-session/browser@1.8.0/dist/content.js?e=" + Date.now()
+    var url = "https://cdn.jsdelivr.net/gh/share-session/browser@1.11.0/dist/content.js?e=" + Date.now()
 
     var script = document.createElement("script")
     
