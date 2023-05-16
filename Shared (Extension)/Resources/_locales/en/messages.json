@@ -1,10 +1,10 @@
 {
     "extension_name": {
         "message": "ShareSession",
-        "description": "The display name for the extension."
+        "description": "Share session"
     },
     "extension_description": {
-        "message": "This is ShareSession. You should tell us what your extension does here.",
-        "description": "Description of what the extension does."
+        "message": "Share your session, on any device, at the same time",
+        "description": "Share a browser session across all your devices"
     }
 }
